@@ -5,7 +5,8 @@ Welcome to Republik.GG Tools! Here are some of the exciting features our tool of
 * Auto Refresh Token
 * Auto Follow
 * Auto Comment And Like
-* Auto Post
+* Auto Creating a Conversations
+* Auto Creating a Post
 * Multi Account Support!
 
 ## Contact Me for the license key
