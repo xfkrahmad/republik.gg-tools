@@ -7,6 +7,8 @@ Welcome to Republik.GG Tools! Here are some of the exciting features our tool of
 * Auto Comment And Like
 * Auto Creating a Conversations
 * Auto Creating a Post
+* Auto Creating a Post V2 ( Fully Automation )
+* Auto Creating a Conversations V2 ( Fully Automation )
 * Multi Account Support!
 
 ## Contact Me for the license key
