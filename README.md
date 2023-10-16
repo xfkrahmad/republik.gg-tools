@@ -14,6 +14,7 @@ Welcome to Republik.GG Tools! Here are some of the exciting features our tool of
 ## Contact Me for the license key
 
 - **Telegram**: [@fkrahmad](https://t.me/fkrahmad)
+- **TG Channel : [TG Channel](https://t.me/xfkrahmadservices)
 - **Email**: [ffikriahmad5@gmail.com](mailto:your.email@ffikriahmad5@gmail.com)
 - **GitHub**: [xfkrahmad](https://github.com/xfkrahmad)
 
